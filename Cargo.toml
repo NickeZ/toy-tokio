@@ -1,0 +1,8 @@
+[package]
+name = "toy-tokio"
+version = "0.1.0"
+authors = ["Niklas Claesson <nicke.claesson@gmail.com>"]
+
+[dependencies]
+futures = "*"
+tokio-core = "*"
